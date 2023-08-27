@@ -34,6 +34,6 @@
    <h1> Thank You, Happy Learning </h1>
    <h1> See You Again </h1>
    <h1> You have made it Rohit yoohoo!!!!! </h1>
-   <h1> Once again rohit you are great and thank you </h1>
+   <h1> Once again rohit you are great </h1>
   
 </form>
